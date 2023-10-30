@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://业余影视/阿里/token.txt$$$https://wogg.xyz/"
+      "ext": "./yeyu/阿里/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "push_agent",
@@ -190,7 +190,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://业余影视/阿里/token.txt"
+      "ext": "./yeyu/阿里/token.txt"
     },
     {
       "key": "csp_AppMr",
