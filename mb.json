@@ -1,0 +1,117 @@
+{
+  "warningText": "接口完全免费，切勿付费购买。",
+  "warningText": "关注公众号:业余打发，分享者随时更新。",
+  "urls": [
+    {"name": "👨‍⚖️｜业余影视MB版｜👨‍⚖️",
+      "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json"
+    },
+    {
+      "name": "♻️业余｜业余专源♻️",
+      "url": "clan://localhost/业余影视/业余/yydf_mb.json"
+    },
+    {
+      "name": "🧚‍♂️业余｜影视专用🧚‍♂️",
+      "url": "clan://localhost/业余影视/open/open.json"
+    },
+    {
+      "name": "🧚‍♂️业余｜路飞影视🧚‍♂️",
+      "url": "clan://localhost/业余影视/路飞/lufei_mb.json"
+    },
+    {
+      "name": "🌨业余｜阿里魔镇🌨",
+      "url": "clan://localhost/业余影视/阿里/ali.json"
+    },
+    {
+      "name": "🐝业余｜天下第一🐝",
+      "url": "clan://localhost/业余影视/蜂蜜/fm.json"
+    },
+    {
+      "name": "‍🐾业余｜猫爪专线🐾",
+      "url": "clan://localhost/业余影视/猫爪/js.json"
+    },
+    {
+      "name": "🍚业余｜神秘小米🍚",
+      "url": "clan://localhost/业余影视/小米/xiaomi.json"
+    },
+    {
+      "name": "🌻业余｜香雅情神🌻",
+      "url": "clan://localhost/业余影视/香雅情/XYQTVBox.json"
+    },
+    {
+      "name": "🌾业余｜饭太坚硬🌾",
+      "url": "clan://localhost/业余影视/饭太硬/fty.json"
+    },
+    {
+      "name": "🐼业余｜肥猫美妞🐼",
+      "url": "clan://localhost/业余影视/肥猫/feim.json"
+    },
+    {
+      "name": "🔥业余｜多多聪明🔥",
+      "url": "clan://localhost/业余影视/多多/dduo.json"
+    },
+    {
+      "name": "⛅️业余｜云星无忧⛅️",
+      "url": "clan://localhost/业余影视/云星无忧/yx.json"
+    },
+    {
+      "name": "🌔业余｜月光宝盒🌔",
+      "url": "clan://localhost/业余影视/月光宝盒/ygbh.json"
+    },
+    {
+      "name": "🚜业余｜运输车姐🚜",
+      "url": "clan://localhost/业余影视/运输车/ysc.json"
+    },
+    {
+      "name": "🌱业余｜菜妮丝佬🌱",
+      "url": "clan://localhost/业余影视/菜妮丝/cns.json"
+    },
+    {
+      "name": "🍵业余｜荷城茶秀🍵",
+      "url": "clan://localhost/业余影视/荷城茶秀/hccx.json"
+    },
+    {
+      "name": "🐈业余｜夜猫有情🐈",
+      "url": "clan://localhost/业余影视/夜猫子/ymz.json"
+    },
+    {
+      "name": "🦆业余｜南风俊逸🦆",
+      "url": "clan://localhost/业余影视/香雅情/Yoursmile/XC.json"
+    },
+    {
+      "name": "🦹‍业余｜道长至尊🦹‍♂️",
+      "url": "clan://localhost/业余影视/香雅情/drpy_js/drjs_config.json"
+    },
+    {
+      "name": "🌛业余｜霜辉月明🌜",
+      "url": "clan://localhost/业余影视/霜辉月明/shym.json"
+    },
+    {
+      "name": "☘️业余｜高天流云☘️",
+      "url": "clan://localhost/业余影视/高天流云/gtly.json"
+    },
+    {
+      "name": "🐉业余｜采集狂魔🐉",
+      "url": "clan://localhost/业余影视/采集/采集.json"
+    },
+    {
+      "name": "🏌️‍业余｜体育直播🏌",
+      "url": "clan://localhost/业余影视/MB专属/体育/tiyu.json"
+    },
+    {
+      "name": "📻业余｜听书电台📻",
+      "url": "clan://localhost/业余影视/MB专属/听书/ts.json"
+    },
+    {
+      "name": "🎶业余｜怡情音乐🎶",
+      "url": "clan://localhost/业余影视/音乐/yymv.json"
+    },
+    {
+      "name": "🐒业余｜动漫天地🐒",
+      "url": "clan://localhost/业余影视/动漫/dm.json"
+    },
+    {
+      "name": "💓业余｜吾之所爱💓",
+      "url": "clan://localhost/业余影视/MB专属/吾爱/吾之所爱.json"
+    }
+  ]
+}
