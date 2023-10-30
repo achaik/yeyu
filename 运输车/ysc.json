@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://业余影视/阿里/token.txt"
+      "ext": "./yeyu/阿里/token.txt"
     },
     {
       "key": "csp_WoGG",
@@ -95,7 +95,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/ali.jar",
-      "ext": "clan://业余影视/阿里/token.txt"
+      "ext": "./yeyu/阿里/token.txt"
     },
     {
       "key": "影探4K",
@@ -723,7 +723,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://业余影视/阿里/token.txt"
+      "ext": "./yeyu/阿里/token.txt"
     },
     {
       "key": "兔小贝",
