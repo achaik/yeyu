@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/HeChengChaXiupm.jar",
+  "spider": "./jar/HeChengChaXiupm.jar;md5;ee81a6de6c3db6be384eb6b6fa8c1554",
   "wallpaper": "https://yun.chuqiuyu.tk",
 
   "sites": [
